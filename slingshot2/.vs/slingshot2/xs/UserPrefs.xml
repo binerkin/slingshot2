@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{816EA251-8F2E-4C19-B467-DF0D37FBDCC7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="slingshot2/slingshot2Page.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="slingshot2/Views/MainPage.xaml">
     <Files>
+      <File FileName="slingshot2/App.xaml.cs" Line="30" Column="1" />
       <File FileName="slingshot2/App.xaml" Line="7" Column="1" />
-      <File FileName="slingshot2/slingshot2Page.xaml" Line="5" Column="1" />
+      <File FileName="slingshot2/Views/MainPage.xaml" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,9 +11,9 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.slingshot2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EDB5ACA0-A0D9-4AF5-A5D2-C7E45C63A28C">
+  <MonoDevelop.Ide.ItemProperties.slingshot2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92AC7F94-03A8-4049-8989-869A0CEC512B">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.slingshot2.iOS>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.slingshot2.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.slingshot2.Droid FirstBuild="True" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
 </Properties>

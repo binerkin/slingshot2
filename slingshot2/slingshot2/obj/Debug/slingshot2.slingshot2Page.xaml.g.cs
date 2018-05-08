@@ -11,7 +11,7 @@
 namespace slingshot2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/al7477/Projects/Essity/slingshot2/slingshot2/slingshot2Page.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ra7479/slingshot2/slingshot2/slingshot2/slingshot2Page.xaml")]
     public partial class slingshot2Page : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

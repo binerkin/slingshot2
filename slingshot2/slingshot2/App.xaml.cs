@@ -8,7 +8,7 @@ namespace slingshot2
         {
             InitializeComponent();
 
-            MainPage = new slingshot2Page();
+			MainPage = new MainPage();
         }
 
         protected override void OnStart()
